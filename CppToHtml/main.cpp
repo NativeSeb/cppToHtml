@@ -95,3 +95,10 @@ bool isOption(string option)
 {
 	return option[0] == '-' || option[0] == '/';
 }
+
+string CharToString(char * contenant)
+{
+	string NouvelleString;
+
+	return NouvelleString = contenant;
+}
